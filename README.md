@@ -22,3 +22,7 @@ Functions:
 - **cb3_calc** - determines the work hardening coefficient for stage 3
 - **cb4_calc** - determines the work hardening coefficient for stage 4
 
+This work was in coordination with:
+1. Sandia National Laboratories, Livermore, CA 94550
+2. Texas A&M, Department of Materials Science and Engineering, Department of Mechanical Engineering, College Station, TX 77843
+3. University of California, Irvine, Department of Materials Science and Engineering, Henry Samueli School of Engineering, Irvine, CA 92697
