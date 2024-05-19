@@ -22,7 +22,7 @@ Functions:
 - **cb3_calc** - determines the work hardening coefficient for stage 3
 - **cb4_calc** - determines the work hardening coefficient for stage 4
 
-*MATLAB's Curve Fitting Toolbox and Deep Learning Toolbox are utilized in this work.*
+*MATLAB's Curve Fitting Toolbox, Signal Processing Toolbox, and Deep Learning Toolbox are utilized in this work.*
 
 This work was in coordination with:
 1. Sandia National Laboratories, Livermore, CA 94550
