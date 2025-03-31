@@ -5,8 +5,8 @@ This project is an open-source MATLAB code with functions for extracting tensile
 
 Its main functions are to:
 - Smooth the stress-strain curve to limit noise for KM analysis
-- Determine tensile properties such as the proportional limit, instability point, 0.2% offset yield stress, Ultimate tensile strength, and elongation
-- Determine work hardening coefficient values for stage 3 and stage 4 of plastic deformation using KM analysis
+- Estimate tensile properties such as the proportional limit, instability point, 0.2% offset yield stress, Ultimate tensile strength, and elongation
+- Estimate work hardening coefficient values for stage 3 and stage 4 of plastic deformation using KM analysis
 
 All functions are provided with explanation headers.  Additionally a GUI is provided for specific smoothing operations.
 
