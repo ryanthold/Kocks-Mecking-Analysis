@@ -21,6 +21,7 @@ Functions:
 - **wrkhard.m** - calculates work hardening rate, which is the instantaneous slope of true stress-strain
 - **cb3_calc** - determines the work hardening coefficient for stage 3
 - **cb4_calc** - determines the work hardening coefficient for stage 4
+- **rsquared** - calculates the coefficient of determination (R^2) and adjusted coefficient from the original data and fited data.
 
 *MATLAB's Curve Fitting Toolbox, Signal Processing Toolbox, and Deep Learning Toolbox are utilized in this work.*
 
